@@ -1,0 +1,29 @@
+
+
+h1{
+    color: #d6ba32;
+    text-align: center;
+
+}
+
+h2{
+    color: #d6ba32;
+    text-align: center;
+}
+
+img{
+height: 100px;
+margin-top: 10px;
+margin-left: 700px;
+margin-right: 250px;
+}
+p{
+    color: #d6ba32;
+    font-size: 14;
+    font-family: arial;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+    width: 1000px;
+}
+
